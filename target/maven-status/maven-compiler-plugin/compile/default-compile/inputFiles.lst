@@ -1,0 +1,14 @@
+/workspaces/t-oper/src/main/java/com/toper/managers/SetupManager.java
+/workspaces/t-oper/src/main/java/com/toper/listeners/FarmListener.java
+/workspaces/t-oper/src/main/java/com/toper/managers/PerformanceManager.java
+/workspaces/t-oper/src/main/java/com/toper/managers/FarmManager.java
+/workspaces/t-oper/src/main/java/com/toper/listeners/RedstoneListener.java
+/workspaces/t-oper/src/main/java/com/toper/listeners/InventoryListener.java
+/workspaces/t-oper/src/main/java/com/toper/managers/ConfigManager.java
+/workspaces/t-oper/src/main/java/com/toper/listeners/PlayerListener.java
+/workspaces/t-oper/src/main/java/com/toper/managers/InventoryManager.java
+/workspaces/t-oper/src/main/java/com/toper/listeners/EntityListener.java
+/workspaces/t-oper/src/main/java/com/toper/commands/TOperCommand.java
+/workspaces/t-oper/src/main/java/com/toper/managers/RedstoneManager.java
+/workspaces/t-oper/src/main/java/com/toper/TOper.java
+/workspaces/t-oper/src/main/java/com/toper/managers/EntityManager.java

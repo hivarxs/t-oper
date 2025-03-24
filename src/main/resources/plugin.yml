@@ -1,0 +1,11 @@
+name: tOper
+version: '${project.version}'
+main: com.toper.TOper
+api-version: 1.8
+authors: [tOper]
+description: Advanced optimization plugin for Paper 1.8
+commands:
+  toper:
+    description: Main command for tOper plugin
+    usage: /<command> [reload|status]
+    permission: toper.admin

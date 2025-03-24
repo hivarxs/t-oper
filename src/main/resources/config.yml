@@ -1,0 +1,40 @@
+# tOper Configuration
+
+# Inventory Optimization
+inventory:
+  restrict-crafting: true
+  restrict-smelting: true
+  max-hoppers-per-chunk: 8
+
+# Entity Limiting
+entities:
+  max-per-chunk: 50
+  excluded-types:
+    - PLAYER
+    - ITEM_FRAME
+    - PAINTING
+
+# Redstone Control
+redstone:
+  update-limit: 10 # Updates per second per chunk
+  disable-clock-circuits: true
+
+# Farm Optimization
+farm:
+  optimize-enabled: true
+  growth-multiplier: 2 # Increases growth speed for optimal conditions
+  redstone-limit: 20 # Higher limit for farm redstone circuits
+
+# Anti-Lag Measures
+anti-lag:
+  clear-items-interval: 300 # seconds
+  item-lifetime: 300 # seconds
+  max-items-per-chunk: 100
+  limit-mob-ai: true
+  mob-ai-range: 32 # blocks
+
+# Performance Monitoring
+monitoring:
+  alert-threshold-tps: 17.0
+  memory-alert-threshold: 85 # percentage
+  alert-interval: 60 # seconds
