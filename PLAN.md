@@ -1,5 +1,7 @@
 # tOper - Minecraft Server Optimization Plugin
 
+this is supposed to be the actual readme.md but the plugin didn't turn well.
+get it, its the PLANedreadme.md xd
 ## Overview
 tOper is a comprehensive optimization plugin for Paper 1.8 servers, designed to improve performance through various optimization techniques.
 
